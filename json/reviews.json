@@ -1,0 +1,74 @@
+[
+   {
+      "id": "review-001",
+      "name": "allan reyes",
+      "role": "elevator constructor",
+      "image": "https://randomuser.me/api/portraits/men/10.jpg",
+      "ratings": 4.5,
+      "quote": "I love shoes. Keep up the excellent work. Without shoes, we would have gone bankrupt by now. Definitely worth the investment!"
+   },
+   {
+      "id": "review-002",
+      "name": "silvia drake",
+      "role": "plate finisher",
+      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "ratings": 3.5,
+      "quote": "I would be lost without shoes. Shoes is worth much more than I paid. Shoes has got everything I need. I use shoes often!"
+   },
+   {
+      "id": "review-003",
+      "name": "james cortez",
+      "role": "meat packer",
+      "image": "https://randomuser.me/api/portraits/men/12.jpg",
+      "ratings": 5,
+      "quote": "We've seen amazing results already. I don't know what else to say. Shoes is worth much more than I paid."
+   },
+   {
+      "id": "review-004",
+      "name": "lora tucker",
+      "role": "transmission engineer",
+      "image": "https://randomuser.me/api/portraits/women/12.jpg",
+      "ratings": 4.5,
+      "quote": "My shoes has just arrived.  It is soooo beautiful. Looking forward now to the other stuff I ordered!"
+   },
+   {
+      "id": "review-005",
+      "name": "duane simon",
+      "role": "bibliographer",
+      "image": "https://randomuser.me/api/portraits/men/14.jpg",
+      "ratings": 3,
+      "quote": "I can't say enough about shoes. Wow!!! what great service, I love it! Thanks for the great service!"
+   },
+   {
+      "id": "review-006",
+      "name": "tami hill",
+      "role": "promoter",
+      "image": "https://randomuser.me/api/portraits/women/14.jpg",
+      "ratings": 2.5,
+      "quote": "Needless to say we are extremely satisfied with the results. I will recommend this to my colleagues!"
+   },
+   {
+      "id": "review-007",
+      "name": "mack jacobs",
+      "role": "industrial millwright",
+      "image": "https://randomuser.me/api/portraits/men/16.jpg",
+      "ratings": 3.5,
+      "quote": "I like shoes more and more each day because it makes my life a lot easier. It's exactly what I've been looking for!"
+   },
+   {
+      "id": "review-008",
+      "name": "elvira ellis",
+      "role": "publicity agent",
+      "image": "https://randomuser.me/api/portraits/women/16.jpg",
+      "ratings": 5,
+      "quote": "I love your system. I will let my mum know about this, she could really make use of shoes! I can't say enough about shoes"
+   },
+   {
+      "id": "review-009",
+      "name": "sam howard",
+      "role": "management assistant",
+      "image": "https://randomuser.me/api/portraits/men/18.jpg",
+      "ratings": 4,
+      "quote": "No matter where you go, shoes is the coolest, most happening thing around! Shoes was worth a fortune to my company!"
+   }
+]
